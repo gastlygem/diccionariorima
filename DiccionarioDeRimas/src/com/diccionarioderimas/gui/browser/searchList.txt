@@ -1,0 +1,2 @@
+http://buscon.rae.es/draeI/SrvltGUIBusUsual?LEMA=%termino%|RAE|RAE
+http://www.sinonimos.org/%termino%|Sinónimos|sinonimos.org

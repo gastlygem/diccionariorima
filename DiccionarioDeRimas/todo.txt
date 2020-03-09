@@ -1,0 +1,52 @@
+X	properties
+X	comprobar que distintos temas funcionan
+X	alinear búsqueda avanzada
+X?	añadir botón a búsqueda avanzada
+X	añadir ordenar por
+X	cambiar true y false en búsqueda de datos
+X	optimizar búsqueda de datos
+X	optimizar generador
+X	separar generador a su propio jar  
+X	updater
+?	installer
+X	opciones fonéticas
+X	ayuda
+	limpiar y comentar código
+	mejorar buscadores para soportar POST y eliminar cabeceras
+X	contador de sílabas
+X	contacto
+X	about
+X	stay on top
+X	marcar tema seleccionado
+	compatibilidad con 1.5
+X	argamasa (verbo) ahora 1260666 palabras
+X	traer traiga
+X	camión en linux
+X	configurar proxy
+X	soportar actualización de archivo de ayuda
+	No mostrar scroll cuando no hay contenido a la derecha
+X	aumentar tamaño de separador entre contador de versos y dicc
+	
+-- versión 2.1
+
+	Buscar, al mismo tiempo que las rimas, los sinónomos y antónimos.
+	cuando se busca una palabra en rimas, poner esa misma palabra en el buscador de internet
+	actualización de archivo de sinónimos y antónimos
+	Añadir más motores de búsqueda
+	permitir editar los motores de búsqueda de forma visual
+	
+-- versión 2.2
+
+	convertir contador de sílabas en editor de texto. 
+	poder hacer click en una palabara del contador para inciar una búsqueda.
+	poder iniciar una búsqueda de internet de forma contextual en contador
+	
+	
+-- versión 2.3
+	ordenar por sílabas, alpha, y "relevancia poética"
+	
+-- versión 2.4
+	permitir la publicación de un poema desde el diccionario a internet directamente (no será necesario crear una cuenta,
+	ya que tiene el id de usuario y pueden seleccionarse otros datos de forma opcional)
+	
+	
